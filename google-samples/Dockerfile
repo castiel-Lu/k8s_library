@@ -1,1 +1,1 @@
-FROM chaosbladeio/chaosblade-box:1.0.2
+FROM chaosbladeio/chaosblade-agent:1.0.2
