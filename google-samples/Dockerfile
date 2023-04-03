@@ -1,1 +1,1 @@
-FROM chaosbladeio/chaosblade-tool:1.7.1
+FROM chaosbladeio/chaosblade-box:1.0.2
