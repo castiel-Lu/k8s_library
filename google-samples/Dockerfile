@@ -1,1 +1,1 @@
-FROM chaosbladeio/chaosblade-agent:1.0.2
+FROM apache/rocketmq:5.1.0
