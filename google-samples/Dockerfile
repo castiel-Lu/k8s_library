@@ -1,1 +1,1 @@
-FROM bitnami/mysql:5.7.41
+FROM elasticsearch:7.17.10
