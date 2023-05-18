@@ -1,1 +1,1 @@
-FROM apache/rocketmq:5.1.0
+FROM bitnami/mysql:5.7.41
