@@ -1,1 +1,1 @@
-FROM elasticsearch:7.17.10
+FROM redis:6.2.12
