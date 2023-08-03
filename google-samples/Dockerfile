@@ -1,1 +1,1 @@
-FROM redis:6.2.12
+FROM nacos/nacos-server:v2.2.3
