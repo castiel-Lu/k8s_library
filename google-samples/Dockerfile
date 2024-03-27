@@ -1,1 +1,1 @@
-FROM docker.io/flannel/flannel-cni-plugin:v1.4.0-flannel1
+FROM registry.k8s.io/sig-storage/nfs-provisioner:v4.0.8
