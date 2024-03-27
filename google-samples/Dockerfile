@@ -1,1 +1,1 @@
-FROM registry.k8s.io/sig-storage/nfs-provisioner:v4.0.8
+FROM registry.k8s.io/metrics-server/metrics-server:v0.7.0
