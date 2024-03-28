@@ -1,1 +1,1 @@
-FROM registry.k8s.io/metrics-server/metrics-server:v0.7.0
+FROM bitnami/nginx-ingress-controller:1.10.0-debian-12-r3
