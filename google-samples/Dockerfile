@@ -1,1 +1,1 @@
-FROM bitnami/nginx-ingress-controller:1.10.0-debian-12-r3
+FROM bitnami/nginx:1.25.4-debian-12-r3
