@@ -1,1 +1,1 @@
-FROM bitnami/nginx:1.25.4-debian-12-r3
+FROM registry.k8s.io/sig-storage/nfs-provisioner:v4.0.8
