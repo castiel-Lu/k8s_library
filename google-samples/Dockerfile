@@ -1,1 +1,1 @@
-FROM docker.io/kubernetesui/dashboard-api:1.4.0
+FROM docker.io/kubernetesui/dashboard-auth:1.1.2
