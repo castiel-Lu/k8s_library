@@ -1,1 +1,1 @@
-FROM docker.io/kubernetesui/dashboard-auth:1.1.2
+FROM docker.io/kubernetesui/dashboard-metrics-scraper:1.1.1
