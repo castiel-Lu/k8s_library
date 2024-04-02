@@ -1,1 +1,1 @@
-FROM kong:3.6
+FROM docker.io/kubernetesui/dashboard-api:1.4.0
