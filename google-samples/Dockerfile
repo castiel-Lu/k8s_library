@@ -1,1 +1,1 @@
-FROM hadolint/hadolint:v2.12.1-beta-alpine
+FROM docker.io/kubesec/kubesec:v2
