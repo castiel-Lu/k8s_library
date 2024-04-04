@@ -1,1 +1,1 @@
-FROM docker.io/kubernetesui/dashboard-web:1.2.3
+FROM docker.io/aquasec/kube-bench:v0.7.2
