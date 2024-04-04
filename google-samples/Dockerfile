@@ -1,1 +1,1 @@
-FROM docker.io/aquasec/kube-bench:v0.7.2
+FROM hadolint/hadolint:v2.12.1-beta-alpine
